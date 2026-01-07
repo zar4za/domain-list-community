@@ -12,6 +12,7 @@ include:taboola
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
 include:category-anticensorship
+include:category-proxy-tunnels
 
 # Art & Design & Photography
 include:artstation
@@ -284,6 +285,7 @@ include:nyaa
 include:piratebay
 include:rarbg
 dmhy.org
+rutor.info
 
 # User scripts
 greasyfork.org
